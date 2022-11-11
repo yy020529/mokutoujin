@@ -24,3 +24,4 @@ rgb-led-matrix を初めて使用する場合は、非常に詳細な hzeller �
 この配線方法以外にも接続方法がありますので、詳しくはこちら(https://github.com/hzeller/rpi-rgb-led-matrix/blob/master/wiring.md) をご参照ください。
 
 # hzeler ドライバーをインストール
+デモを実行して、デバイスが機能するかどうかを確認します。
