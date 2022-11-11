@@ -7,3 +7,6 @@ rgb-led-matrix を初めて使用する場合は、非常に詳細な hzeller �
 ・RGB-Matrix-P3-64x32
 
 ・raspberry pi （4 Model B）＜--·[テストしたモデル]
+# 配線
+![image](https://user-images.githubusercontent.com/117965518/201274313-14cf2018-9bbc-4c35-b5e2-65dd3f79b187.png)
+
