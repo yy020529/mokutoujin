@@ -5,4 +5,5 @@ raspberry pi で hzeller のドライバーを使用して(https://github.com/hz
 rgb-led-matrix を初めて使用する場合は、非常に詳細な hzeller コンテンツを参照できます。
 # 部品
 ・RGB-Matrix-P3-64x32
+
 ・raspberry pi （4 Model B）＜--·[テストしたモデル]
