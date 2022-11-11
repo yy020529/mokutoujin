@@ -10,4 +10,14 @@ rgb-led-matrix を初めて使用する場合は、非常に詳細な hzeller �
 # 配線
 ![image](https://user-images.githubusercontent.com/117965518/201274313-14cf2018-9bbc-4c35-b5e2-65dd3f79b187.png)
 ![image](https://user-images.githubusercontent.com/117965518/201274588-182289b7-def1-45bf-9c60-9d4ffec7659e.png)
-
+| rgb-led-matrix  | raspberry pi | raspberry pi  | rgb-led-matrix |
+| ------------- | ------------- | ------------- | ------------- |
+| R1  | 23  | 13  | G1  |
+| B1  | 26  | 6  | GND  |
+| R2  | 24  | 21  | G2  |
+| B2  | 19  | 10  | E  |
+| A  | 15  | 16  | B  |
+| C  | 18  | 22  | D  |
+| CLK  | 11  | 7  | LAT/STB  |
+| OE  | 12  | 9  | GND  |
+# 
