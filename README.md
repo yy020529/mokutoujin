@@ -21,6 +21,6 @@ rgb-led-matrix を初めて使用する場合は、非常に詳細な hzeller �
 | CLK  | 11  | 7  | LAT/STB  |
 | OE  | 12  | 9  | GND  |
 
-この配線方法以外にも接続方法がありますので、詳しくはこちら(https://github.com/hzeller/rpi-rgb-led-matrix/blob/master/wiring.md)をご参照ください。
+この配線方法以外にも接続方法がありますので、詳しくはこちら(https://github.com/hzeller/rpi-rgb-led-matrix/blob/master/wiring.md) をご参照ください。
 
 # 
