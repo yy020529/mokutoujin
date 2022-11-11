@@ -28,7 +28,6 @@ rgb-led-matrix を初めて使用する場合は、非常に詳細な hzeller �
 
 フォルダー examples-api-use でデモを実行します。
 ````
-```
-Look! You can see my backticks.
-```
+make -C examples-api-use
+sudo examples-api-use/demo -D0
 ````
