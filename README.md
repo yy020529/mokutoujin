@@ -27,3 +27,8 @@ rgb-led-matrix を初めて使用する場合は、非常に詳細な hzeller �
 デモを実行して、デバイスが機能するかどうかを確認します。
 
 フォルダー examples-api-use でデモを実行します。
+````
+```
+Look! You can see my backticks.
+```
+````
