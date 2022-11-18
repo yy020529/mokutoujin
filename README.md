@@ -29,7 +29,7 @@ rgb-led-matrix を初めて使用する場合は、非常に詳細な hzeller �
 フォルダー examples-api-use でデモを実行します。
 ````
 make -C examples-api-use
-sudo examples-api-use/demo -D0
+sudo テスト/demo -D0
 ````
 画面再生アニメーションは基本的に使えます。
 
