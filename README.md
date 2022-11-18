@@ -9,7 +9,9 @@ rgb-led-matrix を初めて使用する場合は、非常に詳細な hzeller �
 ・raspberry pi （4 Model B）＜--·[テストしたモデル]
 ## 配線
 ![image](https://user-images.githubusercontent.com/117965518/201274313-14cf2018-9bbc-4c35-b5e2-65dd3f79b187.png)
+https://www.waveshare.net/wiki/RGB-Matrix-P3-64x32#/media/%E6%96%87%E4%BB%B6:RGB-Matrix-P3-64x32-details-3.jpg
 ![image](https://user-images.githubusercontent.com/117965518/201274588-182289b7-def1-45bf-9c60-9d4ffec7659e.png)
+https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
 | rgb-led-matrix  | raspberry pi | raspberry pi  | rgb-led-matrix |
 | ------------- | ------------- | ------------- | ------------- |
 | R1  | 23  | 13  | G1  |
@@ -32,9 +34,3 @@ make -C examples-api-use
 sudo テスト/demo -D0
 ````
 画面再生アニメーションは基本的に使えます。
-
-
-# 画像ソース
-https://www.waveshare.net/wiki/RGB-Matrix-P3-64x32#/media/%E6%96%87%E4%BB%B6:RGB-Matrix-P3-64x32-details-3.jpg
-
-https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
