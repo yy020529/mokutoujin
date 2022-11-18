@@ -36,4 +36,5 @@ sudo テスト/demo -D0
 
 # 画像ソース
 https://www.waveshare.net/wiki/RGB-Matrix-P3-64x32#/media/%E6%96%87%E4%BB%B6:RGB-Matrix-P3-64x32-details-3.jpg
+
 https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
