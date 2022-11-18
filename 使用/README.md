@@ -30,6 +30,5 @@ gif 画像形式を使用すると、LED に表示されるアニメーション
 ````
 sudo ./led-image-viewer （.bmp，.jpg，.png，.gif）
 sudo ./led-image-viewer --led-rows= 32 --led-cols=64 --led-slowdown-gpio=200 （.bmp，.jpg，.png，.gif）
-
 ````
 再生したい画像ファイルを入力してください。
