@@ -28,7 +28,7 @@ rgb-led-matrix を初めて使用する場合は、非常に詳細な hzeller �
 ## hzeler ドライバーをインストール
 デモを実行して、デバイスが機能するかどうかを確認します。
 
-フォルダー examples-api-use でデモを実行します。
+フォルダー テスト でデモを実行します。
 ````
 make -C examples-api-use
 sudo テスト/demo -D0
