@@ -8,3 +8,24 @@ sudo apt-get update
 sudo apt-get install libgraphicsmagick++-dev libwebp-dev -y
 make led-image-viewer
 ````
+
+## 例
+````
+sudo ./led-image-viewer （.bmp，.jpg，.png，.gif）
+````
+再生したい画像ファイルを入力してください。
+
+## 注意点
+### GPIO速度
+gif 画像形式を使用すると、LED に表示されるアニメーションは画像と同じ速度ではない場合があります。
+````
+--led-slowdown-gpio=（1-···）
+````
+減速したい速度を括弧内に入力してください。
+### サイズ
+````
+--led-rows=（rows）
+--led-cols=（cols）
+````
+--led-rows=(rows) および --led-cols=(cols) で使用される LED のサイズを入力する必要があるタイプは異なります。
+たとえば、64x32 LEDを使用している場合は、フラグ --led-cols=64 --led-rows=32を指定する必要があります。
