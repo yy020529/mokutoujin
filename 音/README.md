@@ -4,6 +4,7 @@ rgb-led-matrix には音がないので、ラズベリーパイにスピーカ�
 mplayerをインストールする必要があります。
 ````
 sudo apt-get install mplayer2
+mplayer （.mp3）
 ````
 
 このようにして、LEDに適切なbgmを設定できます。
